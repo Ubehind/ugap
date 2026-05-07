@@ -1,7 +1,6 @@
 # UGAP: Uncertainty-Guided Adaptive Perturbation for Reliable Molecular Property Prediction
 ## Overview
-This repository contains the official implementation of **UGAP**, a framework that integrates **Evidential Deep Learning (EDL)** with **Adaptive Adversarial Perturbations** to enhance both the generalization and the uncertainty fidelity of molecular property predictions.
-
+This repository is the implementation of the IJCAI 2026 paper ***Uncertainty-Guided Adaptive Local Adversarial Perturbation for Reliable Molecular Property Prediction***. It contains the official implementation of UGAP, a framework that integrates Evidential Deep Learning (EDL) with Adaptive Adversarial Perturbations to enhance both the generalization and the uncertainty fidelity of molecular property predictions.
 ---
 
 
